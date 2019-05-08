@@ -1,4 +1,4 @@
-# Estatutos de la Cooperativa blockchaingt
+# ESTATUTOS DE LA COOPERATIVA BLOCKCHAINGT
 
 ## CAPITULO I - DENOMINACION, DOMICILIO Y OBJETO
 
@@ -14,10 +14,10 @@ La Cooperativa tendrá como objetivo fundamental el procurar el mejoramiento soc
 ##### ARTICULO 4o
 Para lograr el objetivo fundamental, La Cooperativa realizará las siguientes actividades.
 
-a) Realizar transacciones económicas en diferentes productos y servicios.
-b) Crear programas y servicios de desarrollo económico y de tecnología.
-c) Crear programas y otros servicios financieros que le sean permitidos por las leyes, tanto para sus asociados, como para otras instituciones.
-d) Fomentar la educación Cooperativa
+1. Realizar transacciones económicas en diferentes productos y servicios.
+2. Crear programas y servicios de desarrollo económico y de tecnología.
+3. Crear programas y otros servicios financieros que le sean permitidos por las leyes, tanto para sus asociados, como para otras instituciones.
+4. Fomentar la educación Cooperativa
 
 ## CAPITULO II - DURACION Y RESPONSABILIDAD
 
@@ -32,13 +32,13 @@ La responsabilidad de La Cooperativa es Limitada. Los asociados responden única
 ##### ARTICULO 7o
 Los medios económicos que La Cooperativa administra, estarán constituidos por:
 
-a) Los Depósitos de asociados y otras instituciones.
-b) Las Aportaciones pagadas por los asociados.
-c) Las Reservas de Capital.
-d) Los Préstamos que contrate con otras entidades públicas o privadas, sean estas nacionales o extranjeras.
-e) Los bienes tangibles e intangibles que sean depositados o aportados por los socios y otras instituciones.
-f) Los demás bienes que acuerde la Asamblea General de Asociados
-g) Otros recursos que reciba por cualquier Titulo.
+1. Los Depósitos de asociados y otras instituciones.
+2. Las Aportaciones pagadas por los asociados.
+3. Las Reservas de Capital.
+4. Los Préstamos que contrate con otras entidades públicas o privadas, sean estas nacionales o extranjeras.
+5. Los bienes tangibles e intangibles que sean depositados o aportados por los socios y otras instituciones.
+6. Los demás bienes que acuerde la Asamblea General de Asociados
+7. Otros recursos que reciba por cualquier Titulo.
 
 ##### ARTICULO 8o
 El Capital social es variable y estará integrado por aportaciones de valor nominal.
@@ -51,10 +51,10 @@ Las Aportaciones serán nominativas e indivisibles y devengarán la tasa de inte
 ##### ARTICULO 10o
 Podrán ser asociados de La Cooperativa, todas las personas que deseen hacerlo, que reúnan el perfil determinado por el Consejo de Administración, y que cumplan los requisitos siguientes:
 
-a) Ser legalmente capaces.
-b) Solicitar su ingreso, a la Gerencia.
-c) Pagar por lo menos el valor de una aportación.
-d) Cumplir con el proceso de admisión establecido por el Consejo de Administración.
+1. Ser legalmente capaces.
+2. Solicitar su ingreso, a la Gerencia.
+3. Pagar por lo menos el valor de una aportación.
+4. Cumplir con el proceso de admisión establecido por el Consejo de Administración.
 
 ##### ARTICULO 11o
 Los menores de edad también podrán ser asociados de La Cooperativa y sus derechos se regularán en forma específica.
@@ -65,11 +65,11 @@ La calidad de asociado se adquiere por suscripción del acta de constitución; o
 ##### ARTICULO 13o
 Son derechos de los asociados activos:
 
-a) Asistir a las asambleas con voz y un solo voto, cualquiera que sea el número y monto de sus aportaciones.
-b) Elegir y ser electo para el desempeño de cargos directivos en La Cooperativa.
-c) Participar de los servicios de La Cooperativa,
-d) Presentar al Consejo de Administración, proyectos o iniciativas, que tengan por objeto el mejoramiento de La Cooperativa
-e) Otros derechos que los estatutos y la ley establece.
+1. Asistir a las asambleas con voz y un solo voto, cualquiera que sea el número y monto de sus aportaciones.
+2. Elegir y ser electo para el desempeño de cargos directivos en La Cooperativa.
+3. Participar de los servicios de La Cooperativa,
+4. Presentar al Consejo de Administración, proyectos o iniciativas, que tengan por objeto el mejoramiento de La Cooperativa
+5. Otros derechos que los estatutos y la ley establece.
 
 ##### ARTICULO 14o
 Es obligación del asociado cumplir estos estatutos, y demás disposiciones de La Cooperativa
@@ -80,16 +80,16 @@ La persona que por cualquier causa dejare de ser asociado, deberá cumplir con s
 ##### ARTICULO 16o
 La calidad de asociado se pierde:
 
-a) Por renuncia presentada por escrito a la Gerencia,
-b) Por expulsión, cuando le sean aplicables las normas contenidas en estos estatutos.
-c) Por fallecimiento.
+1. Por renuncia presentada por escrito a la Gerencia,
+2. Por expulsión, cuando le sean aplicables las normas contenidas en estos estatutos.
+3. Por fallecimiento.
 
 ##### ARTICULO 17o
 El Consejo de Administración podrá expulsar a un asociado, si se encuentra comprendido en los casos siguientes:
 
-a) Cuando actúe en contra de los intereses de La Cooperativa.
-b) Cuando cometa actos contrarios a la ley, y cualquier acto que desprestigie a La Cooperativa.
-c) Cuando no cumpla sus compromisos y obligaciones contractuales con La Cooperativa, dentro del plazo que se fije en la política administrativa,
+1. Cuando actúe en contra de los intereses de La Cooperativa.
+2. Cuando cometa actos contrarios a la ley, y cualquier acto que desprestigie a La Cooperativa.
+3. Cuando no cumpla sus compromisos y obligaciones contractuales con La Cooperativa, dentro del plazo que se fije en la política administrativa,
 
 ##### ARTICULO 18o
 El asociado que se encuentre comprendido en los artículos anteriores, será notificado por escrito, y podrá apelar ante la Comisión de Vigilancia, quien resolverá en definitiva.
@@ -101,9 +101,9 @@ La estructura de administración y control de La Cooperativa, estará a cargo de
 
 Una asamblea anual obligatoria, dentro de los primeros tres meses que siguen a la finalización del ejercicio contable; y otras en cualquier tiempo del año que sean convocadas.
 
-a) La Asamblea General de Asociados.
-b) El Consejo de Administración.
-c) La Comisión de Vigilancia.
+1. La Asamblea General de Asociados.
+2. El Consejo de Administración.
+3. La Comisión de Vigilancia.
 
 #### ASAMBLEA GENERAL DE ASOCIADOS
 
@@ -144,11 +144,11 @@ Cuando se traten asuntos que afecten a uno o más asociados, estos podrán parti
 ##### ARTICULO 30o
 Son atribuciones de la Asamblea General Ordinaria Obligatoria, las siguientes:
 
-a) Elegir a los miembros del Consejo de Administración y Comisión de Vigilancia.
-b) Conocer los Estados Financieros, de La Cooperativa, y el dictamen de la Comisión de Vigilancia sobre dichos estados.
-c) Conocer el plan de trabajo y presupuesto de ingresos y egresos presentados por el Consejo de Administración.
-d) Decidir sobre el proyecto de aplicación de excedentes o pérdidas, propuesto por el Consejo de Administración
-e) Conocer el informe de actividades del Consejo de Administración y de la Comisión de Vigilancia.
+1. Elegir a los miembros del Consejo de Administración y Comisión de Vigilancia.
+2. Conocer los Estados Financieros, de La Cooperativa, y el dictamen de la Comisión de Vigilancia sobre dichos estados.
+3. Conocer el plan de trabajo y presupuesto de ingresos y egresos presentados por el Consejo de Administración.
+4. Decidir sobre el proyecto de aplicación de excedentes o pérdidas, propuesto por el Consejo de Administración
+5. Conocer el informe de actividades del Consejo de Administración y de la Comisión de Vigilancia.
 
 ##### ARTICULO 31o
 Son atribuciones de las otras Asambleas Ordinarias, lo no contemplado en la Asamblea Ordinaria Obligatoria y no sea objeto de una Asamblea Extraordinaria.
@@ -170,22 +170,22 @@ Cualquier vacante que se produzca, será llenada con un asociado nombrado por el
 ##### ARTICULO 36o
 Son atribuciones del Consejo de Administración, las Siguientes:
 
-a) Cumplir y velar porque se cumplan los objetivos de La Cooperativa,
-b) Convocar a Asambleas Generales Ordinarias y Extraordinarias
-c) Aprobar los normativos y manuales de funcionamiento de La Cooperativa; los estados financieros: la planificación anual y el presupuesto de ingresos y egresos de La Cooperativa, y aprobar la política salarial.
-d) Nombrar y remover al gerente de acuerdo a los requisitos y calidades establecidos.
-e) Presentar a la Asamblea General Ordinaria:
-    e1) El informe anual de actividades, que contendrá los puntos siguientes:
+1. Cumplir y velar porque se cumplan los objetivos de La Cooperativa,
+2. Convocar a Asambleas Generales Ordinarias y Extraordinarias
+3. Aprobar los normativos y manuales de funcionamiento de La Cooperativa; los estados financieros: la planificación anual y el presupuesto de ingresos y egresos de La Cooperativa, y aprobar la política salarial.
+4. Nombrar y remover al gerente de acuerdo a los requisitos y calidades establecidos.
+5. Presentar a la Asamblea General Ordinaria:
+El informe anual de actividades, que contendrá los puntos siguientes:
         - Actividades desarrolladas durante el periodo.
         - Información sobre la ejecución de los planes y presupuestos.
         - Estados financieros, dictaminados por la Comisión de Vigilancia.
-    e2) Proyecto de aplicación de los resultados del ejercicio.
-f) Aprobar la contratación de préstamos externos.
-g) Nombrar comités y comisiones específicas que sean convenientes para una mejor administración de La Cooperativa y sus servicios, así como nombrar y remover a los delegados ante otras organizaciones,
-h) Conocer periódicamente los estados financieros y designar, a propuesta de la Gerencia, las personas que tendrán el manejo de cuentas bancarias.
-i) Fijar las tasas activas y pasivas que se ejecuten en la cooperativa, y otras políticas de los servicios prestados.
-J) Establecer las disciplinas y mecanismos de protección de los bienes que administre La Cooperativa.
-k) Resolver otros asuntos, que sean propios a sus funciones
+    2. Proyecto de aplicación de los resultados del ejercicio.
+6. Aprobar la contratación de préstamos externos.
+7. Nombrar comités y comisiones específicas que sean convenientes para una mejor administración de La Cooperativa y sus servicios, así como nombrar y remover a los delegados ante otras organizaciones,
+8. Conocer periódicamente los estados financieros y designar, a propuesta de la Gerencia, las personas que tendrán el manejo de cuentas bancarias.
+9. Fijar las tasas activas y pasivas que se ejecuten en la cooperativa, y otras políticas de los servicios prestados.
+10. Establecer las disciplinas y mecanismos de protección de los bienes que administre La Cooperativa.
+11. Resolver otros asuntos, que sean propios a sus funciones
 
 ##### ARTICULO 37o
 Todo acto de los miembros del Consejo de Administración que contravenga las disposiciones de estos estatutos y demás aplicables, o que implique el propósito de causar perjuicio moral o material a la cooperativa, los hará incurrir en responsabilidad para con la cooperativa y con terceros, por los daños y perjuicios que con ello hubieren causado. La responsabilidad solidaria alcanza a los miembros de la Comisión de Vigilancia cuando no hubiere objetado los actos oportunamente. Quedan eximidos de responsabilidad los miembros que razonen su voto en el acto de toma de decisión respectiva.
@@ -204,31 +204,31 @@ La Comisión de Vigilancia elegirá entre sus miembros, un presidente, un secret
 ##### ARTICULO 41o
 Son atribuciones de la Comisión de Vigilancia, las siguientes:
 
-a) Velar porque se cumplan los acuerdos y recomendaciones de la Asamblea General y del Consejo de Administración.
-b) Examinar las operaciones de La Cooperativa, por lo menos una vez cada trimestre, presentando los informes respectivos al Consejo de Administración,
-c) Emitir dictamen sobre los estados financieros que presente el Consejo de Administración a la Asamblea General.
-d) Proponer a la Asamblea General Extraordinaria la separación o expulsión de los miembros del Consejo de Administración, cuyos actos sean lesivos a los intereses de La Cooperativa, debiendo ser los cargos debidamente comprobados.
-e) Coordinar con otras instituciones afines, las actividades de fiscalización y supervisión prudencial, que deben realizarse en La Cooperativa.
-f) Solicitar al Consejo de Administración que convoque a Asamblea General Ordinaria o Extraordinaria, de conformidad con lo que establece el articulo 24o. de estos estatutos. Si el Consejo de Administración se negare, transcurridos 15 días de presentada la solicitud, la Comisión de Vigilancia convocará.
-G) Solicitar al Consejo de Administración la contratación de servicios profesionales para la realización de auditorias, o solicitar estos servicios a organismos del estado que estén facultados para ello.
-h) Conocer y evaluar los informes de auditorias y velar porque se implementen las recomendaciones que sean convenientes.
-i) Presentar informe de sus actividades a la Asamblea General Ordinaria Obligatoria.
+1. Velar porque se cumplan los acuerdos y recomendaciones de la Asamblea General y del Consejo de Administración.
+2. Examinar las operaciones de La Cooperativa, por lo menos una vez cada trimestre, presentando los informes respectivos al Consejo de Administración,
+3. Emitir dictamen sobre los estados financieros que presente el Consejo de Administración a la Asamblea General.
+4. Proponer a la Asamblea General Extraordinaria la separación o expulsión de los miembros del Consejo de Administración, cuyos actos sean lesivos a los intereses de La Cooperativa, debiendo ser los cargos debidamente comprobados.
+5. Coordinar con otras instituciones afines, las actividades de fiscalización y supervisión prudencial, que deben realizarse en La Cooperativa.
+6. Solicitar al Consejo de Administración que convoque a Asamblea General Ordinaria o Extraordinaria, de conformidad con lo que establece el articulo 24o. de estos estatutos. Si el Consejo de Administración se negare, transcurridos 15 días de presentada la solicitud, la Comisión de Vigilancia convocará.
+7. Solicitar al Consejo de Administración la contratación de servicios profesionales para la realización de auditorias, o solicitar estos servicios a organismos del estado que estén facultados para ello.
+8. Conocer y evaluar los informes de auditorias y velar porque se implementen las recomendaciones que sean convenientes.
+9. Presentar informe de sus actividades a la Asamblea General Ordinaria Obligatoria.
 
 #### DE LOS MIEMBROS DIRECTIVOS REQUISITOS DE ELECCION, NOMBRAMIENTO Y QUORUM
 
 ##### ARTICULO 42o
 Para ser electo o nombrado miembro de un Órgano Directivo se deben llenar los siguientes requisitos:
 
-a) Ser asociado de La Cooperativa y estar cumpliendo con todas sus obligaciones.
-b) Estar en condiciones necesarias para cumplir las labores que se le encomienden y con el código de ética.
+1. Ser asociado de La Cooperativa y estar cumpliendo con todas sus obligaciones.
+2. Estar en condiciones necesarias para cumplir las labores que se le encomienden y con el código de ética.
 
 ##### ARTICULO 43o
 No podrán ocupar cargos directivos las personas que se encuentren en las siguientes condiciones:
 
-a) Los que tengan relación de parentesco dentro del cuarto grado de consanguinidad o segundo de afinidad con alguno de los directivos o empleados de La Cooperativa.
-b) Los empleados de la cooperativa
-c) Los que hayan cometido actos contrarios a la ley, y cualquier acto que desprestigie a la cooperativa.
-d) Los deudores morosos.
+1. Los que tengan relación de parentesco dentro del cuarto grado de consanguinidad o segundo de afinidad con alguno de los directivos o empleados de La Cooperativa.
+2. Los empleados de la cooperativa
+3. Los que hayan cometido actos contrarios a la ley, y cualquier acto que desprestigie a la cooperativa.
+4. Los deudores morosos.
 
 ##### ARTICULO 44o
 El quórum de los órganos directivos se establece de la manera siguiente: Para el Consejo de Administración, se requerirá de tres de sus miembros; para la Comisión de Vigilancia, dos de sus miembros.
@@ -244,18 +244,18 @@ La Gerencia es la autoridad administrativa responsable del funcionamiento operac
 ##### ARTICULO 47o
 Son atribuciones del gerente:
 
-a) Administrar los bienes de La Cooperativa.
-b) Asistir a las sesiones del Consejo de Administración, con voz, pero sin voto.
-c) Elaborar y proponer las normas y procedimientos administrativos.
-d) Elaborar el Plan Empresarial y el presupuesto de ingresos y egresos de La Cooperativa.
-e) Nombrar, amonestar y remover al personal de la cooperativa
-f) Representar a la Cooperativa en las transacciones comerciales de la misma y en otras que le asigne el Consejo de Administración.
-G) Presentar mensualmente al Consejo de Administración, una evaluación global de la cooperativa, que incluya el Balance General y el Estado de Resultados de la cooperativa, así como de la ejecución del presupuesto.
-h) Proporcionar la información que los órganos directivos requieran.
-I) Proponer al Consejo de Administración, la creación de puestos de trabajo y la asignación de los salarios del personal de la cooperativa.
-j) Resolver sobre el ingreso y retiro voluntarios de asociados.
-k) Implementar las recomendaciones de la auditoria externa y de la entidad fiscalizadora de las cooperativas.
-I) Otras que le asigne el Consejo de Administración
+1. Administrar los bienes de La Cooperativa.
+2. Asistir a las sesiones del Consejo de Administración, con voz, pero sin voto.
+3. Elaborar y proponer las normas y procedimientos administrativos.
+4. Elaborar el Plan Empresarial y el presupuesto de ingresos y egresos de La Cooperativa.
+5. Nombrar, amonestar y remover al personal de la cooperativa
+6. Representar a la Cooperativa en las transacciones comerciales de la misma y en otras que le asigne el Consejo de Administración.
+7. Presentar mensualmente al Consejo de Administración, una evaluación global de la cooperativa, que incluya el Balance General y el Estado de Resultados de la cooperativa, así como de la ejecución del presupuesto.
+8. Proporcionar la información que los órganos directivos requieran.
+9. Proponer al Consejo de Administración, la creación de puestos de trabajo y la asignación de los salarios del personal de la cooperativa.
+10. Resolver sobre el ingreso y retiro voluntarios de asociados.
+11. Implementar las recomendaciones de la auditoria externa y de la entidad fiscalizadora de las cooperativas.
+12. Otras que le asigne el Consejo de Administración
 
 ## CAPITULO VI - DEL EJERCICIO CONTABLE, RESULTADOS Y SU APLICACIÓN
 
@@ -265,9 +265,9 @@ El ejercicio contable de la cooperativa será de un año, iniciándose el primer
 ##### ARTICULO 49o
 Del resultado de operaciones de cada ejercicio, previo al cierre final, se deberán hacer las siguientes deducciones:
 
-a) Reserva Irrepartible.
-b) Reserva Institucional.
-c) Otras que se consideren necesarias.
+1. Reserva Irrepartible.
+2. Reserva Institucional.
+3. Otras que se consideren necesarias.
 
 ##### ARTICULO 50o
 Determinado el resultado neto, el Consejo de Administración presentará a la Asamblea General Ordinaria Obligatoria, un proyecto de aplicación de las diferentes reservas.
